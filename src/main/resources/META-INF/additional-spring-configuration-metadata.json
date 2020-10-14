@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "regex.timeout.value",
+  "type": "java.lang.String",
+  "description": "'regex.timeout.value' : set the timout for thread computing a given regex"
+}]}
